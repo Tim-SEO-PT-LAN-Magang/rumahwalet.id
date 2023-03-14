@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//rumahwalet.id/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://rumahwalet.id/</loc>
 		<lastmod>2023-03-14T06:18:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
@@ -26,7 +26,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/layanan/perawatan-rumah-walet</loc>
+		<loc>https://rumahwalet.id/layanan/perawatan-rumah-walet</loc>
 		<lastmod>2023-03-13T18:00:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
@@ -36,15 +36,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/kebijakan-privasi</loc>
+		<loc>https://rumahwalet.id/kebijakan-privasi</loc>
 		<lastmod>2023-03-13T17:56:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/terms-and-conditions</loc>
+		<loc>https://rumahwalet.id/terms-and-conditions</loc>
 		<lastmod>2023-03-13T15:44:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/layanan/instalasi-rumah-walet</loc>
+		<loc>https://rumahwalet.id/layanan/instalasi-rumah-walet</loc>
 		<lastmod>2023-03-13T14:27:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/03/instalasi-rumah-walet-575x1024-1.jpg</image:loc>
@@ -54,7 +54,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/layanan/desain-rumah-walet</loc>
+		<loc>https://rumahwalet.id/layanan/desain-rumah-walet</loc>
 		<lastmod>2023-03-13T14:13:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
@@ -64,7 +64,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/layanan/bangun-rumah-walet</loc>
+		<loc>https://rumahwalet.id/layanan/bangun-rumah-walet</loc>
 		<lastmod>2023-03-13T14:03:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
@@ -74,11 +74,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/layanan/area-pelayanan</loc>
+		<loc>https://rumahwalet.id/layanan/area-pelayanan</loc>
 		<lastmod>2023-03-13T11:01:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog</loc>
+		<loc>https://rumahwalet.id/blog</loc>
 		<lastmod>2023-03-13T09:04:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/02/Instalasi-Rumah-Walet-2.jpg</image:loc>
@@ -106,11 +106,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak</loc>
+		<loc>https://rumahwalet.id/kontak</loc>
 		<lastmod>2023-03-13T08:54:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/layanan</loc>
+		<loc>https://rumahwalet.id/layanan</loc>
 		<lastmod>2023-03-13T08:27:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2023/03/Pembangunan-Rumah-Walet-480x320-1.jpg</image:loc>
@@ -129,7 +129,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/tentang-kami</loc>
+		<loc>https://rumahwalet.id/tentang-kami</loc>
 		<lastmod>2023-03-13T07:27:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rumahwalet.id/wp-content/uploads/2020/07/about-1.jpg</image:loc>
